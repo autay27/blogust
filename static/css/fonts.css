@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+code {
+  font-family: monospace;
+  font-size: large;
+}
+
+h1, h2, h3, h4 {
+  font-family: serif;
+  font-weight: normal;
+  color: var(--font-alt);
+}
+
+h1 {
+  font-size: x-large;
+}
+
+h2 {
+  font-size: larger;
+}
+
+h3 {
+  font-size: large;
+}
+
+h4 {
+  font-size: medium;
+  font-style: italic;
+}

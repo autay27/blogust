@@ -1,0 +1,35 @@
+baseURL: 'https://blog.goldgust.net/'
+languageCode: en-uk
+title: blogust
+author:
+  name: Au
+  email: autaylor27@gmail.com
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: Blog
+      url: "blog/"
+      weight: 12
+    - name: Categories
+      url: "categories/"
+      weight: 23
+    - name: Tags
+      url: "tags/"
+      weight: 24
+
+theme: "xmin"
+footnotereturnlinkcontents: "↩"
+pluralizelisttitles: false
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
