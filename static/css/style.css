@@ -52,6 +52,10 @@ header a {
 
 header a:visited { color: var(--font); }
 
+.terms {
+  color: var(--font-alt);
+}
+
 /* code */
 pre {
   border: 1px solid var(--accent);
