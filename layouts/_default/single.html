@@ -12,8 +12,8 @@
 <section title="tags" class="terms">
   {{ range $i := (slice "categories" "tags") }}
   {{ with ($.Param $i) }}
-  {{ $i }}: {{ range $index, $k := . }}{{ if ne $index 0 }}, {{ end }}<a href="{{ relURL (print "/" $i "/" $k | urlize) }}">{{$k}}</a>{{ end }}
-  {{ end }}<br>
+  {{ $i }}: {{ range $index, $k := . }}{{ if ne $index 0 }}, {{ end }}<a href="{{ relURL (print "/" $i "/" $k | urlize) }}">{{$k}}</a>{{ end }}.
+  {{ end }}
   {{ end }}
 </section>
 
