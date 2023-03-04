@@ -1,0 +1,7 @@
+# hugo's generated resources i.e. more images
+
+resources/**
+
+# built version of site
+
+public/*
