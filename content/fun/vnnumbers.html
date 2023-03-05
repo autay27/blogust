@@ -1,0 +1,86 @@
+---
+title: "Visualising the Von Neumann definition of natural numbers"
+date: 2023-03-04T23:46:40Z
+draft: true
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+    <style>
+        .foo, .bar {
+            padding: 3px;
+            margin: 3px;
+            display: flex;
+            gap: 1px;
+            align-items: flex-start;
+        }
+
+        .foo {
+            background-color: pink;
+        }
+
+        .bar {
+            background-color: blue;
+        }
+
+        .output {
+            width: 100%;
+            display: inline-block;
+            text-align: center;
+        }
+    </style>
+    </head>
+    <body>
+        <br>
+        <p>Version 1: Fixed size empty set</p>
+        <p>Made by duplicating the number, inverting its contents, alternating flex direction...</p>
+        <div style="display: flex; gap: 5px; justify-content: center;">
+            <button onclick="decrement()" id="decrement">-1</button>
+            <div id="number"></div>
+            <button onclick="increment()">+1</button>
+        </div>
+        <br>
+        <div class="output">
+            <div id="output" style="display: inline-block;"></div>
+        </div>
+        <p>Version 2: Shrinking empty set</p>
+        <p>Made by substituting 1 for the empty set wherever it is found</p>
+
+        <script>
+            var n = 0;
+            var current = '<div class="foo" style="flex-direction: row;"></div>'
+            var sofar = [];
+            document.getElementById("output").innerHTML = current;
+            document.getElementById("number").innerHTML = n;
+            document.getElementById("decrement").style.visibility = "hidden"
+
+            function swap(s, t1, t2) {
+                return s.replace(new RegExp(t1, "g"), "temp").replace(new RegExp(t2, "g"), t1).replace(/temp/g, t2)
+            }
+            function invert(s) {
+                return swap(s, "foo", "bar")
+            }
+
+            function increment() {
+                const dirs = ["row", "column"]
+                n++
+                document.getElementById("number").innerHTML = n
+                sofar.push(current)
+                current = `<div class="foo" style="flex-direction: ${dirs[n % 2]};"><div class="bar" style="flex-direction: ${dirs[(n+1) % 2]};">${current}</div>${invert(current)}</div>`
+                document.getElementById("output").innerHTML = current
+                if(n > 0) document.getElementById("decrement").style.visibility = "visible"
+            }
+
+            function decrement() {
+                n--
+                document.getElementById("number").innerHTML = n
+                if(n == 0) document.getElementById("decrement").style.visibility = "hidden"
+                current = sofar.pop()
+                document.getElementById("output").innerHTML = current
+            }
+
+        </script>
+    </body>
+</html>
