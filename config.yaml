@@ -16,10 +16,10 @@ menu:
     - name: Blog
       url: "blog/"
       weight: 12
-    - name: Categories
-      url: "categories/"
-      weight: 23
-    - name: Tags
+    - name: Cards
+      url: "cardfile/"
+      weight: 13
+    - name: Browse by tag
       url: "tags/"
       weight: 24
 

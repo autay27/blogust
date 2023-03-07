@@ -1,14 +1,17 @@
 ---
+title: "Surf the Net"
+date: 2023-03-06T23:54:54Z
+tags: [small web]
+draft: false
+---
+
+---
 - add all sites from goldgust
 - add pkbs
 - hyperlinks
 ---
 
-# Surf the Net
-
 Discover things on the internet without touching a modern search engine or algorithmic feed.
-
-See: Small Web, Publications
 
 ## Other People's Resources
 

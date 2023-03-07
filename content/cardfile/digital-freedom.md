@@ -1,3 +1,10 @@
+---
+title: "Blank"
+date: 2023-03-06T23:54:54Z
+tagged: [untagged]
+draft: true
+---
+
 Own your data! Don't get locked in!
 
 See: archiving, writing-tools, personal-sites 

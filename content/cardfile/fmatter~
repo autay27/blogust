@@ -6,6 +6,8 @@ draft: true
 ---
 
 
+for f in ./*; do
 
+cat blank.md | cat - ${f} > temp && mv temp ${f}
 
-https://the-toast.net/2014/01/02/let-the-man-speak/
+done

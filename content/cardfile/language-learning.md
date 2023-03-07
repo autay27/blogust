@@ -1,3 +1,10 @@
+---
+title: "Blank"
+date: 2023-03-06T23:54:54Z
+tagged: [untagged]
+draft: true
+---
+
 I've studied a little Japanese and Mandarin Chinese.
 
 Learning radicals is highly advisable. It may seem silly to learn meanings of things which are not words, but it helps you build associations, mnemonics, and stories to remember the characters (without having to pay for wanikani to do it for you).
