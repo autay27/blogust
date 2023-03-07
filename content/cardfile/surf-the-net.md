@@ -13,9 +13,15 @@ draft: false
 
 Discover things on the internet without touching a modern search engine or algorithmic feed.
 
-## Other People's Resources
+## Other People's Resources & Links
 
 https://sadgrl.online/cyberspace/
+
+http://ratfactor.com/cards/
+
+https://crlf.link/mem/
+
+https://murid.neocities.org/links
 
 ## Webrings
 
