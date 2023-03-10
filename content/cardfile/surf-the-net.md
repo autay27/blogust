@@ -6,8 +6,6 @@ draft: false
 ---
 
 ---
-- add all sites from goldgust
-- add pkbs
 - hyperlinks
 ---
 
@@ -23,12 +21,15 @@ https://crlf.link/mem/
 
 https://murid.neocities.org/links
 
-## Webrings
+## Webrings and Communities
 
+http://geekring.net/
 geekring
 
+https://yesterweb.org/
 yesterweb
 
+https://webring.xxiivv.com/
 xxiivv 
 
 ## Other Personal Websites
@@ -46,3 +47,21 @@ https://magnapina.neocities.org/
 https://murid.neocities.org/
 
 https://crlf.link/
+
+https://sadgrl.online/
+
+https://cadnomori.neocities.org/
+
+https://twelvemen.neocities.org/index.html
+
+https://eggramen.neocities.org/
+
+https://swiftyshq.neocities.org/
+
+https://itsyaboypedro.neocities.org/
+
+http://ratfactor.com/
+
+## Blogs
+
+See [blogs](blogs/).
