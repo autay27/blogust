@@ -1,8 +1,8 @@
 ---
-title: "Blank"
+title: "Miscellaneous"
 date: 2023-03-06T23:54:54Z
 tagged: [untagged]
-draft: true
+draft: false
 ---
 
 
@@ -14,6 +14,9 @@ squidgeworld
 # data vis
 
 https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368
+
+https://datashader.org/user_guide/Networks.html
+pretty data vis
 
 # other
 

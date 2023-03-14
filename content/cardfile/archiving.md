@@ -1,9 +1,11 @@
 ---
-title: "Blank"
+title: "Digital Archiving"
 date: 2023-03-06T23:54:54Z
 tagged: [untagged]
-draft: true
+draft: false
 ---
+
+https://crlf.link/mem/offline/
 
 # Why
 
@@ -17,7 +19,10 @@ Archive.org
 
 Download html>Pandoc to markdown
 
-Markdownr
+[Markdownr](https://github.com/sanzoghenzo/markdownr)
 
-https://archivebox.io/
-^See their Github community page for a long list of resources
+[archivebox](https://github.com/ArchiveBox/ArchiveBox):
+See their Github community page for a long list of resources.
+
+https://github.com/mozilla/readability
+Mozilla's library to extract the main content from webpages

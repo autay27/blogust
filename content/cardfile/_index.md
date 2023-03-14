@@ -11,7 +11,7 @@ Links to interesting things, or notes, divided up into "cards". Because any more
 
 Links are not endorsement. I like exposing my brain to questionable ideas - it exercises the questioning muscle.
 
-See: [PKB](pkb)
+_Todo: Links to related cards via frontmatter and template_
 
 ## Entry points
 

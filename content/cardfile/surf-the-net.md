@@ -62,6 +62,8 @@ https://itsyaboypedro.neocities.org/
 
 http://ratfactor.com/
 
+https://dzuk.zone/
+
 ## Blogs
 
 See [blogs](blogs/).

@@ -1,8 +1,8 @@
 ---
-title: "Blank"
+title: "Digital freedom"
 date: 2023-03-06T23:54:54Z
 tagged: [untagged]
-draft: true
+draft: false
 ---
 
 Own your data! Don't get locked in!
@@ -21,7 +21,7 @@ https://www.theguardian.com/music/2022/sep/27/theres-endless-choice-but-youre-no
 
 Replacing cloud sync with Syncthing
 
-Replacing cloud storage with.. what's that thing again?
+I want to try Nextcloud
 
 https://indieweb.org/POSSE
 
