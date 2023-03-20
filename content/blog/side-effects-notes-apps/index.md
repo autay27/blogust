@@ -5,7 +5,7 @@ tags: [notetaking]
 draft: false
 ---
 
-Occasionally I see testimonials from people who use some trendy tool to manage their digital notes, like TiddlyWiki, Obsidian, Logseq, or Notion. And I've begun to feel not only disinterest, but a faint revulsion at the idea of using one of these apps. Other people are welcome to do so, and they may even get a lot out of it, but I'll stick to my trusty folder of plaintext files synced between phone and computer, thank you.
+Occasionally I see testimonials from people who use some trendy tool to manage their digital notes, like TiddlyWiki, Obsidian, Logseq, or Notion. And I've begun to feel not only disinterest, but a faint revulsion at the idea of using one of these apps. Other people are welcome to do so, and they may even get a lot out of it, but I'll stick to my trusty folder of plaintext files synced between phone and computer, thank you. I've used those sorts of apps in the past, and I'm not going back.
 
 But hold on, a text editor on top of some files counts as an app too. Especially since nowadays apps like Obsidian work straight off text files, no company will get ahold of your personal data either way. So what's the difference really?
 
@@ -13,7 +13,7 @@ But hold on, a text editor on top of some files counts as an app too. Especially
 
 The difference is that unlike these apps, _text files are not manipulatory_. This is not to say that every single notes app is a predatory piece of malware which will coerce you into doing microtransactions. Just that they remove friction around certain aspects of note-taking, and thus encourage you towards them. That's the very point of these apps!
 
-Hold on, I just installed Obsidian on my phone to find an example. I picked a folder to work in and made my first two text files. Immediately, the name of the file is displayed as a heading.
+Hold on, I just installed Obsidian on my phone to find a relevant example. I picked a folder to work in and made my first two text files. Immediately, the name of the file is displayed as a heading.
 
 {{< figure src="editing.jpg" alt="A screenshot of a text editor on a phone, saying 'Untitled' in large bold font at the top. At the bottom is a bar with buttons allowing you to do things such as add links, tags, headings and bold text. Above the bar is a menu with a choice of two files available to link, named Untitled and Scratch" >}}
 
