@@ -5,11 +5,9 @@ tags: [small web]
 draft: false
 ---
 
----
-- hyperlinks
----
-
 Discover things on the internet without touching a modern search engine or algorithmic feed.
+
+https://forge.medium.com/9-ways-to-rewild-your-attention-d7c9334b6b90 tactics to find interesting stuff not social media. todo: get links to the small search engines he linked
 
 ## Other People's Resources & Links
 

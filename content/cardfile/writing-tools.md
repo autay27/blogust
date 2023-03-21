@@ -8,8 +8,6 @@ draft: false
 
 ## Why
 
-link my blogpost
-
 https://sive.rs/plaintext
 
 ## Tools
@@ -19,6 +17,6 @@ Markdown
 
 Pandoc
 
-### Markdown
-
 https://www.ficdown.com/
+
+http://ratfactor.com/minslides/ Powerpoint that's just a web page with really big font. This is BOOTIFUL to me.

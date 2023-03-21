@@ -21,3 +21,6 @@ Actually publishing things is rare
 
 https://tomcritchlow.com/2018/02/23/small-b-blogging/
 Blogging your ideas is valuable to you
+
+https://escapingflatland.substack.com/p/search-query 
+The take that you shouldn't worry about making your blogging accessible to a wider audience because you want to find your niche anyway.

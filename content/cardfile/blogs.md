@@ -9,6 +9,10 @@ draft: false
 
 https://austinkleon.com/
 
+## Tech
+
+https://prog21.dadgum.com/ Blog about programming, defunct but full of interesting takes.
+
 ## Other
 
 https://clivethompson.medium.com/
