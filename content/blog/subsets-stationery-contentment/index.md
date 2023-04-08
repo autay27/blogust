@@ -25,6 +25,6 @@ You can see them on the left and right here:
 
 I even made up some other groupings, like monochrome and coloured, or matching them into pairs so that each pair would look and write well together. Suddenly I felt like a little kid playing with my toys rather than a uni student with writing tools. Fun! And it brought me some peace of mind: my pens look good together after all. They just needed the right framing.
 
-I guess this post is yet another observation that changing your perspective can help you feel better about something. Many of us can think of very serious things which we could only make peace with once we found the correct perspective on them; the story of my pen collection is a more lighthearted example.
+I guess this post is yet another observation that changing your perspective can help you feel better about something. Many of us can think of sad things which we could only make peace with once we found the correct perspective on them; the story of my pen collection is a more lighthearted example.
 
 [^1]: In the following story, the ballpoints weren't actually on my desk with the others, but I wanted to show them off too.
