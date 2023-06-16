@@ -9,7 +9,7 @@ draft: false
 
 Of course, a tourist visiting Oxford for the day should go punting, visit colleges, wander around the Botanic Garden, and have an afternoon tea or the like. But here are some lesser-known little things I like to do in Central Oxford.
 
-A.k.a. my thank you letter to a city which, even though I spent most of my time there living under a rock, surprised me with nice moments whenever I poked my head out.
+A.k.a. my thank you letter to a city which, even though I spent most of my time there living under a rock, surprised me with nice moments whenever I poked my head out. (Slightly inspired by Winnie Lim's charming [post about visiting Hanoi](https://winnielim.org/journal/my-favourite-things-in-hanoi/), which made me think that I don't have to be a travel writer to talk about a place I like.)
 
 ## Attend an organ recital
 
@@ -41,7 +41,7 @@ Little Clarendon Street is a scenic spot with plenty of trendy cafes and stores 
 
 ## Get fish tofu in the Gloucester Green Market
 
-A market consisting mainly of street food stalls from cultures around the world. There is something for everyone. The Asian snack food stall sells a fish tofu which is one of my favourite foods of all time. It comes in little cubes, which are ridiculously juicy, savoury and have the perfect texture when you bite in.
+A market consisting mainly of street food stalls from cultures around the world. There is something for everyone. The Chinese/Japanese snack food stall sells a fish tofu which is one of my favourite foods of all time. It comes in little cubes, which are ridiculously juicy, savoury and have the perfect texture when you bite in.
 
 ## Walk along bits of canal
 
