@@ -41,11 +41,11 @@ Little Clarendon Street is a scenic spot with plenty of trendy cafes and stores 
 
 ## Get fish tofu in the Gloucester Green Market
 
-A market consisting mainly of street food stalls from cultures around the world. There is something for everyone. The Chinese/Japanese snack food stall sells a fish tofu which is one of my favourite foods of all time. It comes in little cubes, which are ridiculously juicy, savoury and have the perfect texture when you bite in.
+A market consisting mainly of street food stalls from cultures around the world. There is something for everyone - my boyfriend likes to get souvlaki. The Chinese/Japanese snack food stall sells a fish tofu which is one of my favourite foods of all time. It comes in little cubes, which are ridiculously juicy, savoury and have the perfect texture when you bite in.
 
 ## Walk along bits of canal
 
-My favourite part of the canal to walk is west of the Folly Bridge... that is, go down St Aldate's and turn right at the bridge (turn left to see a bunch of college boathouses). Lots of pretty nature and bridges. I used to think that if I kept walking this way, I would eventually leave the city behind altogether. Yeah, I have a poor sense of direction.
+My favourite part of the canal to walk is west of the Folly Bridge... that is, go down St Aldate's and turn right at the bridge (turn left to see a bunch of college boathouses). Lots of pretty nature and bridges. I used to think that if I kept walking this way, I would eventually leave the city behind altogether (I have a poor sense of direction).
 
 Another nice spot is north of Hythe Bridge... that is, the canal-side path easily available to the right if you go down George Street and keep going past the intersection. More bridges, quirky canal boats, and greenery. Lots of people are taking this path just to get somewhere. It can get muddy so don't wear your best shoes.
 
