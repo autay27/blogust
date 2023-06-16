@@ -28,7 +28,7 @@ There are plenty of bubble tea shops in Oxford (shout out to Fantastea on the Hi
 
 ## Explore around the Thom Building
 
-I'm a big fan of brutalist architecture. So from an aesthetic standpoint, the area around the Thom Building might be my favourite place in the city. Although these are university buildings, don't be afraid to explore in between the buildings and climb some stairs, so you can see the buildings from different perspectives and get yourself truly surrounded by concrete and glass. And make sure to cross to the Banbury Road side to see the Denys Wilkinson building and its enormous fan, which apparently contains an old particle accelerator.
+I'm a big fan of brutalist and modernist architecture. So from an aesthetic standpoint, the area around the Thom Building might be my favourite place in the city. Although this is university property, don't be afraid to explore in between the buildings and climb some stairs, so you can see them from different perspectives and get yourself truly surrounded by concrete and glass. And make sure to cross to the Banbury Road side to see the Denys Wilkinson building and its enormous fan, which apparently contains an old particle accelerator.
 
 {{<figure src="nearthombld.jpg" caption="Exploring a place with lots of different levels is fun.">}}
 
