@@ -1,7 +1,7 @@
 ---
 title: "Little things in Oxford"
 date: 2023-06-16T10:41:39+01:00
-tags: [personal]
+tags: [personal, brutalism]
 draft: false
 ---
 
