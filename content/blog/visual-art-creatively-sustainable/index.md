@@ -1,5 +1,5 @@
 ---
-title: "Visual Art is Creatively Sustainable by Default"
+title: "Visual art is creatively sustainable by default"
 date: 2023-04-09T00:48:26+01:00
 tags: [creativity, process, automation]
 draft: false
