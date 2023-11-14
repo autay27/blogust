@@ -7,7 +7,7 @@ draft: false
 
 ## The state of things
 
-One of the common pieces of advice for creatives trying to build an audience is to post their work online on a regular basis. Aside from gaming social media algorithms, or using it as a reminder to practice, there is a good reason for this. In the same way that you might dislike someone on first impressions, but grow to be friends later, sometimes it takes repeated exposure to really appreciate someone's style; to overcome the instinctive dislike of the unfamiliar, appreciate what makes it unique and begin to spot wider patterns within their body of work. Not everyone is immediately charismatic. Thus, post a lot.
+One of the common pieces of advice for creatives trying to build an audience is to post their work online on a regular basis. Aside from gaming social media algorithms, or using it as a reminder to practice, there is a good reason for this. In the same way that you might dislike someone on first impressions, but grow to be friends later, sometimes it takes repeated exposure to really appreciate someone's style; to overcome the instinctive dislike of the unfamiliar, appreciate what makes it unique and begin to spot wider patterns within their [body of work](/blog/personal-website-1/). Not everyone is immediately charismatic. Thus, post a lot.
 
 Anyway, I have not been taking that advice. I lost what little audience I had via various social media moves and I've now stopped posting most of my art and writing online. I first assumed that was bad, but I'm not sure anymore.
 
