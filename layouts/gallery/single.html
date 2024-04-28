@@ -7,7 +7,7 @@
         {{ if (gt .Params.date 0) }}<a href="{{ $link }}"><h2 class="date">{{ .Date.Format "2006/01/02" }}</h2></a>{{ end }}
         {{ range (.Resources.ByType "image") }}
         {{ $thumbnail := .Fit "3000x3000 webp" }}
-        <a href="{{ $link }}"><img src="{{ .RelPermalink }}"></a>
+        <a href="{{ $link }}"><img src="{{ $thumbnail.RelPermalink }}"></a>
         {{ end }}
     {{ end }}
 {{ end }}
