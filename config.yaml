@@ -13,10 +13,10 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Blog
-      url: "blog/"
+    - name: Photo gallery
+      url: "gallery/"
       weight: 12
-    - name: Cards
+    - name: Link collection
       url: "cardfile/"
       weight: 13
     - name: Browse by tag

@@ -1,12 +1,15 @@
 {{ partial "header.html" . }}
 
 {{ range where .Site.Pages "Section" "blog"}}
-            {{ if (.Resources.ByType "image") }}
-                {{ range (.Resources.ByType "image") }}
-                {{ $thumbnail := .Fit "3000x3000 webp" }}
-                <a href="{{ .Permalink }}"><img src="{{ .RelPermalink }}"></a>
-                {{ end }}
-            {{ end }}
+<div style="display: flex; flex-direction: column; align-items: center;">
+    {{ $link := .Permalink }}
+    {{ if (and (in .Params.tags "photography") (.Resources.ByType "image")) }}
+        {{ if (gt .Params.date 0) }}<a href="{{ $link }}"><h2 class="date">{{ .Date.Format "2006/01/02" }}</h2></a>{{ end }}
+        {{ range (.Resources.ByType "image") }}
+        {{ $thumbnail := .Fit "3000x3000 webp" }}
+        <a href="{{ $link }}"><img src="{{ .RelPermalink }}"></a>
+        {{ end }}
+    {{ end }}
 {{ end }}
 
 

@@ -9,7 +9,7 @@ draft: false
 
 Links to interesting things, or notes, divided up into "cards". Because any more clearly defined system would be harder to maintain.
 
-Links are not endorsement. I like exposing my brain to questionable ideas - it exercises the questioning muscle.
+Links are not endorsement.
 
 _Todo: Links to related cards via frontmatter and template_
 

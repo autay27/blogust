@@ -1,7 +1,7 @@
 ---
 title: "The joys of live content for language learning"
 date: 2023-08-15T21:59:18+01:00
-tags: [learning, language learning]
+tags: [learning, language learning, photography]
 draft: false
 ---
 

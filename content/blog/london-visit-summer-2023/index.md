@@ -1,7 +1,7 @@
 ---
 title: "London visit, summer 2023"
 date: 2023-07-15T15:13:48+08:00
-tags: [personal, street art, brutalism]
+tags: [personal, street art, brutalism, architecture, photography]
 draft: false
 ---
 
