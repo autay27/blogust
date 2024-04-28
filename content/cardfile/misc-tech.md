@@ -50,6 +50,8 @@ https://limited.systems/articles/frugal-computing/
 
 ## other
 
+http://www.codersnotes.com/notes/a-constructive-look-at-templeos/ Templeos is famous as a kooky mental illness / programming story but it's nice to see someone sit down and genuinely engage with it.
+
 https://signal.org/blog/signal-is-for-everyone/ 
 I don't really get signal and this reads like PR but it is a quick rundown of global different texting norms
 
