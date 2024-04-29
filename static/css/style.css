@@ -97,6 +97,15 @@ figure img {
     margin: auto;
 }
 
+.photofigure img {
+    max-width: 100%;
+    max-height: none;
+    display: block;
+    margin: auto;
+}
+
+
+
 figcaption {
     text-align: center;
     font-style: italic;
