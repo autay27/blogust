@@ -2,7 +2,7 @@
 title: "I Got a DSLR Camera"
 date: 2024-04-29T19:56:43+01:00
 tags: [photography, personal]
-draft: true
+draft: false
 ---
 
 ## Pros
