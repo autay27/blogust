@@ -2,7 +2,7 @@
 title: "A trip to the Southbank Centre"
 date: 2024-04-30T21:08:41+01:00
 tags: [architecture, brutalism, photography]
-draft: true
+draft: false 
 ---
 
 As I mentioned in my [last post](blog/i-got-a-dslr), I got a new camera, and this weekend I had my first chance to take it out on an adventure. I went for what I _thought_ would be a safe choice: the Southbank Centre, a place I find extremely beautiful and have already posted [some photos of](blog/london-visit-summer-2023) before.
