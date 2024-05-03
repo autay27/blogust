@@ -17,7 +17,6 @@ I was disgruntled at the knowledge that this other person definitely took a very
 
 Apart from that... despite specifically mentioning it in my previous comments, I had forgotten just how hard it is to take good photos of the Southbank Centre! In hindsight, I retreated into more abstract photos as a result. I would have liked to document "what it was like there" a bit more. 
 
-{{< photofigure src="smallpuddle.webp" alt="A puddle reflecting a yellow concrete top of a stairway and blue sky" >}}
 
 {{< photofigure src="crane.webp" alt="Concrete overhang with greenery growing at the top, and a bright red crane in the distance" >}}
 {{< photofigure src="containers.webp" alt="The corners of shipping containers and concrete structures forming abstract shapes" >}}
