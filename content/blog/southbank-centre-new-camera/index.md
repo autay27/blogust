@@ -5,7 +5,7 @@ tags: [architecture, brutalism, photography]
 draft: false 
 ---
 
-As I mentioned in my [last post](blog/i-got-a-dslr), I got a new camera, and this weekend I had my first chance to take it out on an adventure. I went for what I _thought_ would be a safe choice: the Southbank Centre, a place I find extremely beautiful and have already posted [some photos of](blog/london-visit-summer-2023) before.
+As I mentioned in my [last post](/blog/i-got-a-dslr), I got a new camera, and this weekend I had my first chance to take it out on an adventure. I went for what I _thought_ would be a safe choice: the Southbank Centre, a place I find extremely beautiful and have already posted [some photos of](/blog/london-visit-summer-2023) before.
 
 It had rained earlier in the day, but when I arrived in the afternoon the sky was blue. Sunlight and puddles. Perfect conditions for photography I guess. I quickly spotted some other people who were out with their cameras. In fact, I (secretly) queued behind one of them to get access to The Perfect Puddle which had appeared in the perfect spot to take photos like this one:
 
