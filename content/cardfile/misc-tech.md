@@ -66,3 +66,9 @@ https://grifel.dev/decentralization/
 https://blog.noredink.com/post/142283641812/designing-meetups-to-build-better-communities
 
 https://prog21.dadgum.com/ Blog about programming, defunct but full of interesting takes.
+
+https://regexle.ithea.de/
+regex game
+
+https://qr.blinry.org/
+how to decode QR codes
