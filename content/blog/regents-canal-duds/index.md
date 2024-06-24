@@ -2,7 +2,7 @@
 title: "Dud Photos along Regent's Canal"
 date: 2024-05-09T19:16:57+01:00
 tags: [photography]
-draft: photography
+draft: false 
 ---
 
 Took my camera on a walk to Regent's Canal (from Kings Cross Station to Camden) this weekend. Unlike my [previous trip](/blog/southbank-centre-new-camera) I had some troubles with my camera. Before I was shooting fully manual and didn't think too much about anything, but this time I was messing around with camera settings...
