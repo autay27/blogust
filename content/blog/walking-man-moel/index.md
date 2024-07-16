@@ -1,7 +1,7 @@
 ---
 title: "Walking around on Man Moel (and how to check focal length statistics)"
 date: 2024-07-16T22:46:55+01:00
-tags: [photography, wales]
+tags: [photography, wales, bash]
 draft: false 
 ---
 
