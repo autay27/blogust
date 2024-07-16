@@ -1,7 +1,7 @@
 ---
 title: "Photos from the mountains in South Wales"
 date: 2024-06-24T20:41:45+01:00
-tags: [photography]
+tags: [photography, wales]
 draft: false
 ---
 

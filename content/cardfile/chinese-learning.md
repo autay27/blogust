@@ -7,7 +7,7 @@ draft: false
 
 Learning radicals is highly advisable. It may seem silly to learn meanings of things which are not words, but it helps you build associations, mnemonics, and stories to remember the characters (without having to pay for an app to do it for you).
 
-Although I don't follow its advice to the letter, my favourite motivational language learning blog is [AJATT](http://www.alljapaneseallthetime.com/blog/) which recommends an immersion-based language learning methodology.
+Although I don't follow its advice completely, my favourite motivational language learning blog is [AJATT](http://www.alljapaneseallthetime.com/blog/) which recommends an immersion-based language learning methodology. I know a lot of people think AJATT sucks but it's great at convincing you to do the bare minimum and get your foot in the door.
 
 A key that I think a lot of beginners aren't taught is that it's nigh on pointless to try and identify the tone of a single syllable. Instead, learn about [tone pairs](https://www.hackingchinese.com/focusing-on-tone-pairs-to-improve-your-mandarin-pronunciation/). I haven't actively studied that but came to the same conclusion while learning.
 
@@ -19,11 +19,11 @@ A general note - for any CN learning app, even if it seems to be for Simplified,
 
 "A Course in Contemporary Chinese" textbooks - a bit slow, but provided some structure to my learning. (I don't recommend the anki decks you can find online for these books, they have a few mistakes). 
 
-I read some of the Ninchanese Chinese Grammar app, and liked it, but it's in Simplified. The Tae Kim of Chinese.
+I read some of the Ninchanese Chinese Grammar app, and liked it, but it's in Simplified. The Tae Kim Japanese Grammar of Chinese.
 
-Anki - I had a personal deck to record words that I saw/looked up when I was out and about. I also had a deck of 6000 most common characters but used it less often. I already knew radicals from Japanese, and didn't bother learning Chinese meanings (although I think my impression of their meanings is slowly changing to the Chinese ones now).
+Anki - These days I use HSK which is a good selection of common words that you will quickly start to hear/see after learning them. I already knew radicals from Japanese, and didn't bother learning Chinese meanings (although I think my impression of their meanings is slowly changing to the Chinese ones now).
 
-Currently I don't use Anki because I don't want to learn each word so perfectly anymore. I just write lists of words in a notebook to test myself.
+For words I discover outside the Anki decks, I first star them in my dictionary app, then write them in a notebook to test myself. It's just more fun that way.
 
 DuShu - A marvelous app for practicing reading, specifically its "read from clipboard" option. It generates a nicely laid out pronunciation guide and dictionary for the text with options to hide and reveal definitions/pronunciations so you can practice recall.
 
@@ -33,7 +33,7 @@ Pleco - I use it to see example sentences.
 
 MDBG - most convenient web dictionary.
 
-Yellowbridge - I like that it shows the stroke order and words sharing the same characters
+Yellowbridge - I like that it shows the stroke order and words sharing the same characters. 
 
 https://youglish.com/chinese - Haven't used. Look up a word and it finds you a moment in a youtube with someone saying it. Should be helpful to find youtube on a certain topic as well.
 
