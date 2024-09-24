@@ -1,7 +1,7 @@
 ---
 title: "Tools for building websites"
 date: 2023-01-22T21:32:34Z
-draft: false
+draft: true
 categories: [web]
 tags: [small web, self hosting]
 thumbnail: example_content.png

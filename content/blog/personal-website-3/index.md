@@ -2,7 +2,7 @@
 title: "Making a website, start to finish"
 date: 2023-03-14T22:48:09Z
 tags: [small web, self hosting]
-draft: false
+draft: true
 ---
 
 So, I have gone on about [why I made a website]({{< ref "/blog/personal-website-1" >}}). What's the actual process like for making a personal website then? Where to start?

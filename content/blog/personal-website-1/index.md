@@ -1,7 +1,7 @@
 ---
 title: "Why build my own art gallery site?"
 date: 2022-12-24T18:02:00Z
-draft: false
+draft: true
 categories: [web, art]
 tags: [small web, self hosting, body of work]
 thumbnail: gallery.png

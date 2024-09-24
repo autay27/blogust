@@ -2,7 +2,7 @@
 title: "Subsets of stationery, and contentment"
 date: 2023-04-04T22:25:17+01:00
 tags: [stationery]
-draft: false
+draft: true
 ---
 
 I have a lot of fountain pens - seven of them. One big reason for this is that you can fill them with any colour of ink imaginable, and I like to use a few colours at once. Rotating through colours in lecture notes helps me find things when skimming through them later, and using lots of colours while journaling is just fun. I like planning ahead and picking inks that will look good together. Colour theory is my favourite part of visual arts too.
