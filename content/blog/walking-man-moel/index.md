@@ -11,9 +11,7 @@ Man Moel is a hill in South Wales. Nearby there is a tree farm and a wind farm.
 It's a quiet place that makes you realise how noisy the rest of the world is. But not too quiet, because there are sheep everywhere, and they like to talk to each other over long distances.
 
 {{< photofigure src="sheep_hillside.webp" >}}
-The sheep will look at you.
 
-{{< photofigure src="sheep_above.webp" >}}
 What if you head uphill? Well, apart from more sheep...
 
 
