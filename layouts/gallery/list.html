@@ -2,7 +2,7 @@
 {{ partial "header.html" . }}
 
 {{ $pages := where .Site.Pages "Section" "blog" }}
-{{ $paginator := .Paginate $pages 5 }}
+{{ $paginator := .Paginate $pages 4 }}
 
 {{ range $paginator.Pages }}
 <div style="display: flex; flex-direction: column; align-items: center;">
