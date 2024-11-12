@@ -1,5 +1,5 @@
 ---
-title: "CKS Memorial Hall"
+title: "CKS Memorial Hall and thoughts on photo editing"
 date: 2024-11-11T22:31:10Z
 tags: [photography, taiwan, taiwan 2024]
 draft: false
