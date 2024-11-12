@@ -1,6 +1,10 @@
+
 {{ partial "header.html" . }}
 
-{{ range where .Site.Pages "Section" "blog"}}
+{{ $pages := where .Site.Pages "Section" "blog" }}
+{{ $paginator := .Paginate $pages 5 }}
+
+{{ range $paginator.Pages }}
 <div style="display: flex; flex-direction: column; align-items: center;">
     {{ $link := .Permalink }}
     {{ if (and (in .Params.tags "photography") (.Resources.ByType "image")) }}
@@ -12,6 +16,6 @@
     {{ end }}
 {{ end }}
 
-
+{{ template "_internal/pagination.html" . }}
 
 {{ partial "footer.html" . }}
