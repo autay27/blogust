@@ -5,3 +5,7 @@ resources/**
 # built version of site
 
 public/*
+
+# swapfiles
+
+*.kate-swp
