@@ -36,7 +36,7 @@ After we went to Yongkang Street in Taipei, I questioned whether it's even worth
 
 But, I can't knock Yingge too much because I am so fond of the gaiwan (spoutless teapot) I found here. The label on it said that the design is called 'Alishan Sunrise', presumably after the gradient in the glaze, but the smooth yellow inside reminds me of custard.
 
-{{< figure src="teaset.jpg" caption="The gaiwan and cups from Yingge, the cloth and bag from Yongkang Street, and the fairness cup from Daqiaotou. I have souvenirs from everywhere!" >}}
+{{< figure src="teaset.jpg" caption="The gaiwan and cups from Yingge, the cloth and bag from Yongkang Street, and the fairness cup from Daqiaotou. I have souvenirs from everywhere, heh." >}}
 
 ## Tea leaves
 
