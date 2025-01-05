@@ -16,13 +16,13 @@ There are loads of the Maimai machines in different locations in Ximen and they 
 
 ## CKS Memorial Hall
 
-Of course we had to go here because it's the biggest national monument and the buildings are so huge and beautiful. But it's also quite boring. Another low effort thing to do while jetlagged. I posted my photos of it [here](blog/tw-2024-cks-memorial-hall/).
+Of course we had to go here because it's the biggest national monument and the buildings are so huge and beautiful. But it's also quite boring. Another low effort thing to do while jetlagged. I posted my photos of it [here](/blog/tw-2024-cks-memorial-hall/).
 
 ## Beitou hot springs
 
 Taiwan has a lot of preserved Japanese colonial era architecture open for visitors. Most of the info at these places is in Chinese but even while illiterate I still like to walk around the pretty buildings with no shoes on (this is mandatory), feel the wooden and tatami floors, and relax.
 
-Anyway, Beitou is surely the most attractive of Japanese era stuff. Hot springs! I made a full post about our day trip [here](blog/tw-2024-beitou/).
+Anyway, Beitou is surely the most attractive of Japanese era stuff. Hot springs! I made a full post about our day trip [here](/blog/tw-2024-beitou/).
 
 ## Karaoke
 
