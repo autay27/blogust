@@ -9,3 +9,7 @@ public/*
 # swapfiles
 
 *.kate-swp
+
+# krita temp files
+
+*~
