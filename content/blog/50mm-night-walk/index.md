@@ -5,11 +5,11 @@ tags: [photography, cambridge]
 draft: false
 ---
 
-After about 1.5 years of having a DSLR, I've gotten myself a nifty fifty for my second lens. 50mm on an APS-C camera has an effective focal length of 75mm, so it's very zoomed in. It's a prime lens, meaning you can't change the zoom: if you want to get a closer photo of a subject you have to move closer to it.
+After about 1.5 years of having a DSLR, I've gotten myself a nifty fifty for my second lens. 50mm on an APS-C camera has an effective focal length of 75mm, so it's very zoomed in. It's a prime lens, meaning I can't change the zoom: if I want to get a further photo of a subject I have to move further away from it.
 
 {{< photofigure src="ferris.jpg" alt="A ferris wheel glints in the sunset against a dark sky and trees" >}}
 
-If you look at the previous pictures on this blog most of them were taken towards the long, 55mm end of my kit lens focal range. I really enjoy doing layering and framing with a long focal length. A friend once told me that my photos look claustrophobic; as a kid, I was always fascinated by the details of things and the items I would spot close to me on the ground. I once got irrationally angry looking at an album of photos I took around age 6-8 because the photos were all of boring details or items instead of people or places (laughs)... But why not try leaning into it? Of course, a long focal length is good for portraits too (because of something called compression).
+If you look at the previous pictures on this blog most of them were taken towards the long, 55mm end of my kit lens focal range. I really enjoy doing layering and framing with a long focal length. A friend once told me that my photos look claustrophobic; as a kid, I was always fascinated by the details of things and the items I would spot close to me on the ground. I once got irrationally angry looking at an album of photos I took around age 6-8 because the photos were all zoomed in to boring details or items instead of people or places (laughs)... But why not try leaning into it? Of course, a long focal length is good for portraits too (because of something called compression).
 
 {{< photofigure src="shopfront.jpg" caption="Layering the top of a car in the foreground" alt="A lit-up glass window for a shop selling costumes reflects six phrases in red neon" >}}
 
