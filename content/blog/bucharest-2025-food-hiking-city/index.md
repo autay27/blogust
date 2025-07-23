@@ -1,5 +1,5 @@
 ---
-title: "Bucharest 2025 - Food, hiking and the city"
+title: "Bucharest 2025 - Food, hiking and public transport"
 date: 2025-07-22T22:42:21+01:00
 tags: [bucharest 2025, photography]
 draft: false
