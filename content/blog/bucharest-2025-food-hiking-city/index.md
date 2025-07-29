@@ -10,11 +10,14 @@ I visited a friend in Bucharest recently. Here are some of the foods and drinks 
 - Pretzels with fillings (cherry jam, chocolate, hot dog with spiced red cabbage) from streetside bakeries
 - Soup from a dedicated soup cafe
 - ROM bar (rum flavoured sponge and chocolate bar)
+- Vișinată (cherry liquor, kind of like if Sourz was made using plants)
 - Olympus herbal tea (apparently the base herb is called 'Greek mountain tea'), mint flavour
 - Iceberg lettuce and wakame salad from a ramen restaurant
 - Banana flavoured ice cream with a peelable gummy outside and a firm ice cream inside
 
 {{< figure src="icecream.jpg" alt="A hand holding a banana shaped ice cream up against a city street at dusk" >}}
+
+There was also one food I really didn't like, an extremely strong garlic sauce (mujdei) which makes me understand why some Romanians complain that they hate garlic.
 
 I didn't take around my camera every day because it's heavy and I was doing a lot of walking, but I tried to stay in the photo taking mindset even with my smartphone. These are my favourite smartphone photos; I'll show the camera photos from the trip in a future post.
 
