@@ -41,3 +41,6 @@ Drawing (mostly as in urban sketching) is in theory good for recording because i
 I want to experiment more with drawing as part of journaling though. Drawing on location need not be a stressful thing where I hunt for a good seat with a view, huddle down and try to create a full piece of art before time runs out. It can just be a way to relax and process the world around me when I am already idle somewhere, like waiting for a train. I remember the last time I sketched like that; I was at the Baker Street station of the London Underground and I was enjoying the jazz being played by a busker somewhere nearby. Not so bad. There are other options too like drawing from the imagination and comic strips, which I do a little of already (mostly drawing characters from things I have watched).
 
 I think the next journal I bind will be small enough to take out and about and I will choose paper that can handle art materials. I hope it goes well.
+
+{{< figure src="sketchpage1.jpg" alt="A sketchbook page with ink drawings of 3 people on the subway" >}}
+{{< figure src="sketchpage2.jpg" alt="A sketchbook spread in ballpoint and ink wash with a man on his phone on the subway and four women eating mcdonalds" caption="Some favourite from the urban sketching days, done on the Taipei MRT and while waiting for my McDonalds order">}}
